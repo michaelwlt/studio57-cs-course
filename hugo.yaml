@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Get Started
-      pageRef: /docs
+      pageRef: /ossu
       weight: 1
     - name: About
       pageRef: /about
