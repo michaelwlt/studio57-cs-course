@@ -3,7 +3,7 @@ title: OSSU CS Simplified
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
+{{< hextra/hero-badge link="https://github.com/ossu/computer-science" >}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
   <span>Based on OSSU's free, open-source curriculum</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
@@ -17,7 +17,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Engaging, simplified explanations of OSSU's&nbsp;<br class="sm:hx-block hx-hidden" />world-class CS curriculum from top universities
+  University-quality CS education reimagined&nbsp;<br class="sm:hx-block hx-hidden" />with engaging, straightforward explanations
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -30,7 +30,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Complete CS Education"
-    subtitle="Follow the same curriculum structure as top CS programs minus the high tuition and rigid schedule."
+    subtitle="Experience a comprehensive curriculum structured like top university programs—without the tuition costs or rigid schedules."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/hextra-doc.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
@@ -38,7 +38,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Simplified Complexity"
-    subtitle="Complex CS concepts explained in clearer, more engaging language with practical examples."
+    subtitle="Break through difficult concepts with clear explanations and practical examples that make CS accessible to everyone."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="images/hextra-markdown.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
@@ -53,8 +53,8 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Core CS Fundamentals"
-    subtitle="Master programming, math, algorithms, systems, theory and applications with material from Harvard, MIT, and Princeton—explained in simpler terms."
+    title="World-Class Curriculum"
+    subtitle="Access materials from Harvard, MIT, and Princeton—carefully curated and presented in more approachable language."
   >}}
   {{< hextra/feature-card
     title="Learn At Your Own Pace"
