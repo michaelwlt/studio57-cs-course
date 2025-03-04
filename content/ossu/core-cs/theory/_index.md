@@ -4,8 +4,6 @@ description: "Algorithms, data structures, and theoretical foundations"
 weight: 5
 ---
 
-# Core Theory
-
 This section covers the theoretical foundations of computer science, focusing on algorithms, data structures, and computational complexity. These concepts are essential for solving problems efficiently and understanding the limits of computation.
 
 ## Topics Covered

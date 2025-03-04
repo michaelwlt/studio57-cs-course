@@ -4,8 +4,6 @@ description: "Advanced computer architecture and systems design"
 weight: 2
 ---
 
-# Advanced Systems
-
 This section delves deeper into computer architecture, distributed systems, and advanced system design concepts that build upon the foundations established in Core Systems.
 
 ## Topics Covered

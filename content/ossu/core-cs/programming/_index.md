@@ -4,8 +4,6 @@ description: "Essential programming concepts, paradigms, and practices"
 weight: 1
 ---
 
-# Core Programming
-
 This section covers the essential programming concepts, paradigms, and practices that form the foundation of computer science. You'll learn multiple programming languages and paradigms, enabling you to choose the right approach for any problem.
 
 ## Topics Covered

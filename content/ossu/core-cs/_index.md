@@ -1,10 +1,8 @@
 ---
-title: "Core CS"
+title: "Core Computer Science"
 description: "Foundational computer science courses equivalent to the first three years of a CS degree"
 weight: 3
 ---
-
-# Core Computer Science
 
 The Core CS section corresponds roughly to the first three years of a computer science curriculum, covering classes that all CS majors would be required to take.
 

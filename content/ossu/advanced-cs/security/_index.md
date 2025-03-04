@@ -4,8 +4,6 @@ description: "Cybersecurity, cryptography, and ethical hacking"
 weight: 4
 ---
 
-# Advanced Information Security
-
 This section focuses on advanced cybersecurity concepts, techniques, and practices. It builds upon the foundations established in Core Security to prepare students for specialized roles in information security.
 
 ## Topics Covered

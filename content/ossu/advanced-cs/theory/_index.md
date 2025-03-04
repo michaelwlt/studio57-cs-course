@@ -4,8 +4,6 @@ description: "Advanced algorithms, computational theory, and formal methods"
 weight: 3
 ---
 
-# Advanced Theory
-
 This section explores advanced theoretical concepts in computer science, including complex algorithms, computational complexity theory, formal verification, and mathematical foundations that extend beyond Core Theory.
 
 ## Topics Covered

@@ -4,8 +4,6 @@ description: "Advanced mathematical concepts for specialized computer science"
 weight: 5
 ---
 
-# Advanced Math
-
 This section covers advanced mathematical topics that form the foundation for specialized areas of computer science. These courses extend beyond the Core Math requirements to provide deeper mathematical understanding for specific CS disciplines.
 
 ## Topics Covered

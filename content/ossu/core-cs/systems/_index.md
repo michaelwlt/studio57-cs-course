@@ -4,8 +4,6 @@ description: "Understanding computer architecture and systems"
 weight: 4
 ---
 
-# Core Systems
-
 This section explores how computers work at a fundamental level, from basic logic gates to operating systems and network protocols. You'll gain a deep understanding of the systems that run our software.
 
 ## Topics Covered

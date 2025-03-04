@@ -4,8 +4,6 @@ description: "Principles and practices of computer security"
 weight: 6
 ---
 
-# Core Security
-
 This section covers the fundamental principles and practices of computer and information security. As digital systems become increasingly integrated into our lives, understanding how to protect these systems is crucial for any computer scientist.
 
 ## Topics Covered

@@ -4,8 +4,6 @@ description: "Essential development tools for computer science"
 weight: 3
 ---
 
-# CS Tools
-
 Understanding theory is important, but you'll also need to create programs efficiently. This section covers a number of tools that are widely used to make software development easier and more productive.
 
 ## Topics Covered

@@ -4,8 +4,6 @@ description: "Applied computer science in databases, machine learning, and graph
 weight: 7
 ---
 
-# Core Applications
-
 This section focuses on practical applications of computer science in key areas: databases, machine learning, computer graphics, and software engineering. These courses teach you how to apply theoretical knowledge to solve real-world problems.
 
 ## Topics Covered

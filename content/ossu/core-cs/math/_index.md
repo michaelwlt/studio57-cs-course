@@ -4,8 +4,6 @@ description: "Mathematical foundations for computer science"
 weight: 2
 ---
 
-# Core Math
-
 Mathematics forms the theoretical foundation for computer science. Discrete math is particularly important and closely related to the study of algorithms and data structures. Calculus helps develop mathematical maturity and prepares students for discrete math.
 
 ## Topics Covered

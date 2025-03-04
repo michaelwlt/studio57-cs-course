@@ -4,8 +4,6 @@ description: "Ethical considerations in computing and technology"
 weight: 8
 ---
 
-# Core Ethics
-
 This section addresses the ethical dimensions of computer science and technology. As computing systems increasingly influence society, understanding the ethical implications of technology is essential for responsible innovation.
 
 ## Topics Covered

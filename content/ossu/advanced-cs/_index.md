@@ -1,10 +1,8 @@
 ---
-title: "Advanced CS"
+title: "Advanced Computer Science"
 description: "Specialized computer science courses for final-year focus"
 weight: 4
 ---
-
-# Advanced Computer Science
 
 The Advanced CS section corresponds roughly to the final year of a computer science curriculum. After completing all required courses in Core CS, you should choose a subset of courses from Advanced CS based on your interests and career goals.
 

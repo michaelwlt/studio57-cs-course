@@ -1,10 +1,8 @@
 ---
-title: "Intro CS"
+title: "Introduction to Computer Science"
 description: "Introduction to Computer Science"
 weight: 2
 ---
-
-# Introduction to Computer Science
 
 This section will introduce you to the world of computer science and programming. It gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 

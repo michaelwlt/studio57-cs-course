@@ -4,8 +4,6 @@ description: "Advanced programming concepts, languages, and techniques"
 weight: 1
 ---
 
-# Advanced Programming
-
 This section covers advanced programming concepts, paradigms, and techniques that go beyond the fundamentals covered in Core Programming. These courses will deepen your understanding of programming languages and software development practices.
 
 ## Topics Covered
