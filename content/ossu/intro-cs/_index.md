@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Computer Science"
+title: "Introduction to Computer Sciences"
 description: "Introduction to Computer Science"
 weight: 2
 ---
