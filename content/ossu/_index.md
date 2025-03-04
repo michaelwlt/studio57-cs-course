@@ -4,8 +4,6 @@ description: "A complete, free education in computer science using online materi
 weight: 1
 ---
 
-# Open Source Society University - Computer Science
-
 Welcome to the Open Source Society University (OSSU) Computer Science curriculum. This is a comprehensive path to a free, self-taught education in computer science.
 
 ## About OSSU
