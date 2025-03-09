@@ -1,6 +1,8 @@
 ---
 title: "What is Computation?"
 date: 2025-03-09T08:13:49+01:00
+cascade:
+  type: docs
 draft: false
 ---
 # Introduction to Programming and Python: From Computer Basics to Your First Code
